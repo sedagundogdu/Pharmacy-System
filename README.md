@@ -1,3 +1,3 @@
 # Pharmacy-System
-Project built with Java, Swing library
-----------------------------------------
+"Project built with Java, Swing library"
+
