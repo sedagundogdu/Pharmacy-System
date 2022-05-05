@@ -1,10 +1,13 @@
 # Pharmacy-System
 "Project built with Java Swing library and connected to database"
 
-* Application starts with the login page. In that part, the user name and password are controlled from the database. When the username and password match, the menu section is reached. The menu is divided into two as patient procedures and medicine procedures.  Patient procedures is divided into patient registration and patient listing, and medicine procedures are divided into medicine registration and medicine listing.                                                                                    
+Application starts with the login page. In that part, the user name and password are controlled from the database. When the username and password match, the menu section is reached. The menu is divided into two as patient procedures and medicine procedures.  Patient procedures is divided into patient registration and patient listing, and medicine procedures are divided into medicine registration and medicine listing.                                                                                    
 In Patient Registration Frame some information about the patient is taken and that's info saved in patient database. Besides in this section, the medicine used by the patient can also be added and this information get from the database containing information about the medicine.
+
 In the Patient Listing Frame, we can list all patients on the table. We can delete and modify over the table and send these changes to the database.
+
 In Medicine Addition Frame necessary information about the medicine is taken and that's info saved in medicine database. Additionally in this section, the category of the medicine is taken from the category database.
+
 In Medicine Listing Frame, we can list all medicine on the table. We can delete and modify over the table and send these changes to the database.
 
 
