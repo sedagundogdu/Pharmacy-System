@@ -1,6 +1,5 @@
 # Pharmacy-System
-"Project built with Java Swing library"
-
+"Project built with Java Swing library and connected to database"
 ![image](https://user-images.githubusercontent.com/69769369/166909046-e1a306d9-e07c-4370-8525-878271cd3a23.png)
 ![image](https://user-images.githubusercontent.com/69769369/166909065-d3600f89-4cc7-4ed3-9015-9f7db6842192.png)
 ![image](https://user-images.githubusercontent.com/69769369/166909079-5fafd9aa-9130-47c6-9d6c-3c13e8ba8941.png)
