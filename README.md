@@ -9,7 +9,7 @@
 
 * In Medicine Addition Frame necessary information about the medicine is taken and that's info saved in medicine database. Additionally in this section, the category of the medicine is taken from the category database.
 
-In Medicine Listing Frame, we can list all medicine on the table. We can delete and modify over the table and send these changes to the database.
+* In Medicine Listing Frame, we can list all medicine on the table. We can delete and modify over the table and send these changes to the database.
 
 
 ![image](https://user-images.githubusercontent.com/69769369/166909046-e1a306d9-e07c-4370-8525-878271cd3a23.png)
