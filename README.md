@@ -1,5 +1,5 @@
 # Pharmacy-System
-"Project built with Java Swing library and connected to database"
+"Project built with Java Swing library and connected to database using MYSQL"
 
 * Application starts with the login page. In that part, the user name and password are controlled from the database. When the username and password match, the menu section is reached. The menu is divided into two as patient procedures and medicine procedures.  Patient procedures is divided into patient registration and patient listing, and medicine procedures are divided into medicine registration and medicine listing. 
                                                                                      
