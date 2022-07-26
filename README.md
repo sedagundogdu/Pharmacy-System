@@ -7,5 +7,5 @@ After the login page user can access the menu. You can access operations such as
 
 In addition part, information is taken and that's informations saved in database. 
 
-In listing part you can list all patients and medicines on the table. You can delete and modify over the table and send these changes to the database.
+In listing part, you can list all patients and medicines on the table. You can delete and modify over the table and send these changes to the database.
 
